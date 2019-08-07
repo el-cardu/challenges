@@ -14,10 +14,10 @@
 
 Solutions of Programming Contests Websites and general problems sets.
 
-- [Exercism](https://github.com/el-cardu/songs/blob/master/exercism)
-- [Hackerrank](https://github.com/el-cardu/songs/blob/master/hackerrank)
-- [UFABC](https://github.com/el-cardu/songs/blob/master/ufabc)
-- [URI](https://github.com/el-cardu/songs/blob/master/URI)
+- [Exercism](https://github.com/el-cardu/challenges/blob/master/exercism)
+- [Hackerrank](https://github.com/el-cardu/challenges/blob/master/hackerrank)
+- [UFABC](https://github.com/el-cardu/challenges/blob/master/ufabc)
+- [URI](https://github.com/el-cardu/challenges/blob/master/URI)
 
 ---
 
