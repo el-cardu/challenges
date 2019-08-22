@@ -16,6 +16,8 @@ Solutions of Programming Contests Websites and general problems sets.
 
 - [Exercism](https://github.com/el-cardu/challenges/blob/master/exercism)
 - [Hackerrank](https://github.com/el-cardu/challenges/blob/master/hackerrank)
+- [Project Euler](https://github.com/el-cardu/challenges/blob/master/project-euler)
+- [Python Brasil](https://github.com/el-cardu/challenges/blob/master/python-brasil)
 - [UFABC](https://github.com/el-cardu/challenges/blob/master/ufabc)
 - [URI](https://github.com/el-cardu/challenges/blob/master/URI)
 
