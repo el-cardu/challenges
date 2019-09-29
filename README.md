@@ -19,7 +19,7 @@ Solutions of Programming Contests Websites and general problems sets.
 - [Project Euler](https://github.com/el-cardu/challenges/blob/master/project-euler)
 - [Python Brasil](https://github.com/el-cardu/challenges/blob/master/python-brasil)
 - [UFABC](https://github.com/el-cardu/challenges/blob/master/ufabc)
-- [URI](https://github.com/el-cardu/challenges/blob/master/URI)
+- [URI](https://github.com/el-cardu/challenges/blob/master/uri)
 
 ---
 
