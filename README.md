@@ -41,6 +41,6 @@ Roadmap for contributing: <br/>
 ## :page_facing_up: License
 
 Feel free to fork, copy, paste, trade, sell, burn or kill this repository. </br>
-Everything here is licensed by [The Unlicense](https://github.com/el-cardu/songs/blob/master/LICENSE).  
+Everything here is licensed by [The Unlicense](https://github.com/el-cardu/challenges/blob/master/LICENSE).  
 
 I follow *most* of the guidelines of [UFABC Honor's Code](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/). So, if you use any exercise solutions of this repository - total or partial -, in any evaluation process on UFABC, you have to cite this on the terms of Honor's Code and [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/br/). Thank you!
