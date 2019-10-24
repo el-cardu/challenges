@@ -1,6 +1,6 @@
 flag = 0
 number = int(input())
-for i in range(1001):
+for i in range(1000):
     print('N[{0}] = {1}'.format(i, flag))
     flag += 1
     if flag == number:
